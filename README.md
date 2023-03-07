@@ -30,10 +30,14 @@ The [quantile function][quantile-function] for a [Bernoulli][bernoulli-distribut
 
 <!-- <equation class="equation" label="eq:bernoulli_quantile_function" align="center" raw="Q(r;p)=\begin{cases} 0 & \text{if } r \le 1-p \\ 1 & \text{if } r > 1-p \end{cases}" alt="Quantile function for a Bernoulli distribution."> -->
 
-<div class="equation" align="center" data-raw-text="Q(r;p)=\begin{cases} 0 &amp; \text{if } r \le 1-p \\ 1 &amp; \text{if } r &gt; 1-p \end{cases}" data-equation="eq:bernoulli_quantile_function">
+```math
+Q(r;p)=\begin{cases} 0 & \text{if } r \le 1-p \\ 1 & \text{if } r > 1-p \end{cases}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="Q(r;p)=\begin{cases} 0 &amp; \text{if } r \le 1-p \\ 1 &amp; \text{if } r &gt; 1-p \end{cases}" data-equation="eq:bernoulli_quantile_function">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@591cf9d5c3a0cd3c1ceec961e5c49d73a68374cb/lib/node_modules/@stdlib/stats/base/dists/bernoulli/quantile/docs/img/equation_bernoulli_quantile_function.svg" alt="Quantile function for a Bernoulli distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -222,7 +226,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
