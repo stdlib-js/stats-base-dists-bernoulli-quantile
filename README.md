@@ -65,13 +65,18 @@ for `0 <= r <= 1`, where `p` is the success probability.
 ## Usage
 
 ```javascript
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-quantile@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-bernoulli-quantile/tags). For example,
+
+```javascript
 import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-quantile@v0.2.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-quantile@v0.2.0-esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-quantile@esm/index.mjs';
 ```
 
 #### quantile( r, p )
@@ -152,7 +157,7 @@ y = myquantile( 1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-quantile@v0.2.0-esm/index.mjs';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-quantile@esm/index.mjs';
 
 var p;
 var r;
