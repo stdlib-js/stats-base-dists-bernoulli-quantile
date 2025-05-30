@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-01)
+## Unreleased (2025-05-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`20dd4e8`](https://github.com/stdlib-js/stdlib/commit/20dd4e891d7fac27581eecb54240ae194d6076ab) - **test:** add missing skips for native add-on tests _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`975de6a`](https://github.com/stdlib-js/stdlib/commit/975de6ac8cf9349a047a39921ddf3f29a9b0d77e) - **docs:** replace manual `for` loop in examples [(#6280)](https://github.com/stdlib-js/stdlib/pull/6280) _(by Karan Anand)_
 -   [`766b77d`](https://github.com/stdlib-js/stdlib/commit/766b77dbec2e3aee7e59d5759382baae1db229ac) - **feat:** add C implementation for `stats/base/dists/bernoulli/quantile` [(#4869)](https://github.com/stdlib-js/stdlib/pull/4869) _(by Nishchay Rajput, Philipp Burckhardt, stdlib-bot)_
