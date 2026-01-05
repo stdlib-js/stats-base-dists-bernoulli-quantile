@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-25)
+## Unreleased (2026-01-05)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3419](https://github.com/stdlib-js/stdlib/issues/3419)
+[#3419](https://github.com/stdlib-js/stdlib/issues/3419), [#5860](https://github.com/stdlib-js/stdlib/issues/5860)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e1c4c43`](https://github.com/stdlib-js/stdlib/commit/e1c4c4337a0ad754e9752546fe96ed63f51764da) - **test:** address review comments [(#9543)](https://github.com/stdlib-js/stdlib/pull/9543) _(by daksha607, Athan Reines)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -54,12 +55,13 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Nishchay Rajput
 -   Philipp Burckhardt
+-   daksha607
 
 </section>
 
