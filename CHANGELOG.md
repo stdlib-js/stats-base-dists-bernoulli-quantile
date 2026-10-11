@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-10-11)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`46654b3`](https://github.com/stdlib-js/stdlib/commit/46654b3ee14a2ded19aef7ac6b8842d0b94fd601) - **test:** migrate `stats/base/dists/bernoulli/quantile` to ULP-based assertions [(#16034)](https://github.com/stdlib-js/stdlib/pull/16034) _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-05)
